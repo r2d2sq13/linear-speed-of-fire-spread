@@ -1,3 +1,4 @@
+
 streamlit
 matplotlib
 pandas
@@ -5,3 +6,5 @@ numpy
 scikit-learn
 folium
 streamlit_folium
+pydeck
+flexidate
